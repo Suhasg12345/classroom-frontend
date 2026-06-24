@@ -77,10 +77,10 @@ const SubjectsList = () => {
   return (
     <ListView>
       <Breadcrumb />
-      <h1 className='page-title'>hello</h1>
+      <h1 className='page-title'>Subjects</h1>
       <div className='intro-row'>
 
-        <p>Quick access to essential metrics and mangement tools</p>
+        <p>Quick access to essential metrics and management tools</p>
       </div>
       <div className='actions-row'>
         <div className='search-field'>
