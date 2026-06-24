@@ -5,5 +5,4 @@ const Dashboard = () => {
     <div>dashboard banthu</div>
   )
 }
-
 export default Dashboard
